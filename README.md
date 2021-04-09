@@ -6,7 +6,7 @@ Applying Data Structure by using Priority Queue structured with Binomial Heap to
 
 In WWW, when you enter a “keyword” search engines try to rank the documents
 according to the similarities between your keyword and the documents lying on
-WWW. The most famous search engines are Google, Bing, Yahoo... Various
+WWW . The most famous search engines are Google, Bing, Yahoo... Various
 machine learning and deep learning algorithms run behind these search engines. On
 the other hand, the common logic behind them is to rank the documents according to
 relevance.
