@@ -1,6 +1,6 @@
 # Data Structures Project
 
-Applying Data Structure by using Priority Queue structured with Binomial Heap to observe simple search engines.
+Applying Data Structure by using Priority Queue structured with Binomial Heap to observe simple search engines in C.
 
 ### Explanation
 
