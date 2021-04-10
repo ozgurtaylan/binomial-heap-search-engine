@@ -17,7 +17,7 @@ given keyword with binomial heaps in this project.
 
 ### How it Works ? 
 
-There are 42 documents in "DataStrcutersProject\documents".
+There are 42 documents in "DataStrcutersProject\files".
 
 In this documents there are some comments about technological devices and brands.
 
